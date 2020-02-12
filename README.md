@@ -5,7 +5,7 @@ Sohail Mohanty
 ## Responses to Readings
 
 1. [Response to Blumenstock](https://www.google.com)
-2. [Response to Lloyd](https://www.google.com)
+2. [Response to Lloyd](https://github.com/SohailMohanty4/workshop1/blob/master/lloyd.md)
 
 
 ## Workshop
