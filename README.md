@@ -1,6 +1,12 @@
-# Catalog
+# Catalog of Work
 
 Sohail Mohanty
+
+## Responses to Readings
+
+1. [Response to Blumenstock](https://www.google.com)
+2. [Response to Lloyd](https://www.google.com)
+
 
 ## Workshop
 
