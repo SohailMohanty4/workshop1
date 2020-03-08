@@ -6,7 +6,7 @@
 ## Density plot
 ![](Project2_2.png)
 
-## Residual model of night time lights, urban cover, and bare cover 
+## Residual model of night time lights with population distribution
 ![](Project2_3.png)
 ![](Project2_4.png)
 
