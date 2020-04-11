@@ -17,5 +17,5 @@ Sohail Mohanty
 
 ## Projects
 
-1. [Project 1](https://github.com/SohailMohanty4/workshop1/blob/master/Project1.md)
+1. [Project 1](https://sohailmohanty4.github.io/workshop1/project1.md)
 1. [Project 2](https://github.com/SohailMohanty4/workshop1/blob/master/Project2.md)
