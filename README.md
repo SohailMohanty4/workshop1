@@ -18,4 +18,5 @@ Sohail Mohanty
 ## Projects
 
 1. [Project 1](https://sohailmohanty4.github.io/workshop1/Project1)
-1. [Project 2](https://sohailmohanty4.github.io/workshop1/Project2)
+2. [Project 2](https://sohailmohanty4.github.io/workshop1/Project2)
+3. [Project 3](https://sohailmohanty4.github.io/workshop1/Project3)
