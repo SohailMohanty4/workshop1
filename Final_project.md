@@ -26,3 +26,6 @@ Colomb has a lower population along with the rest of the districts as Quetzalten
 
 ![](Healthcare.png)
 ![](Roads.png)
+
+Below is the urban areas, road networks, and healthcare facilities of the Colomba district. 
+![](combined.png)
