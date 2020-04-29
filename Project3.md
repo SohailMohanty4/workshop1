@@ -13,3 +13,5 @@ The plot shown above is a representation of the cities road networks, the red li
 ![](Healthcare.png)
 
 Quetzaltenango has numerous hospitals and numerous pharmacies, for its 1800000 constituents. Indicating that the healthcare system in Quetzaltenango is adequate and well- planned. 
+
+![](combined.png)
