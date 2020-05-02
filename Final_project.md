@@ -27,5 +27,9 @@ Colomb has a lower population along with the rest of the districts as Quetzalten
 ![](Healthcare.png)
 ![](Roads.png)
 
-Below is the urban areas, road networks, and healthcare facilities of the Colomba district. 
+Below is the urban areas, road networks, and healthcare facilities of the Colomba district which has the population of around 30000 people. 
 ![](combined.png)
+
+Below is the urban areas, road networks, and healthcare facilities of the Colomba district on the topography. This picture is an example of how healthcare facilities, road networks, and the population prefer a flatter settlement location. The graph indicates that the majority of the population resides on the flatter ground and that the only healthcare facility is located on the closer to the end of the flatter side.  
+![](yo.png)
+![](yo2.png)
